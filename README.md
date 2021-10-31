@@ -18,6 +18,7 @@ Specs:
 - 400A peak
 - 80A constant
 - (90°C after 10 minutes with open air T ambient 25°C)
+- Super Small, only 38.5x35.5mm
 
 one of my first pcb designs, 3 years old almost now, so can still have some stupid errors, feel free to correct!
 
