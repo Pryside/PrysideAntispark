@@ -1,0 +1,14 @@
+IRFS7530          Q1, Q2
+DFS5670           Q3
+NTA4001NT1G       Q4
+4.7uF 16V 0805    C1
+1MOhm 0603        R1, R2, R4, R5
+100KOhm 0603      R6
+100Ohm 0603       R7
+BZV55-C12,115     D1, D2
+MM3Z10VT1G        D5
+MBR0520LT1G       D3
+ROX2SJ4R7         R3
+(any 4.7Ohm 2W MOX)
+
+
