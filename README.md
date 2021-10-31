@@ -10,6 +10,7 @@ Watch out for R3, that has to be a MOX technology based resistor, other technolo
 
 Specs:
 6-12S max.
+
 20-50V
 400A peak
 80A constant
